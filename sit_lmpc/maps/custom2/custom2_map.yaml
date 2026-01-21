@@ -1,0 +1,7 @@
+image: custom2_map.png
+resolution: 0.5 
+origin: [-200.37152777777777,-200.37152777777777, 0.000000]
+# origin_pix: [-400.74305555555554,-400.74305555555554, 0.000000]
+negate: 0
+occupied_thresh: 0.45
+free_thresh: 0.196

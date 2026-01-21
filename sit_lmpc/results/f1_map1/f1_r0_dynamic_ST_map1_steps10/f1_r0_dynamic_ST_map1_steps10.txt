@@ -1,0 +1,46 @@
+exp_name f1_r0_dynamic_ST_map1_steps10
+random seed 17286
+Precompiling jit for ss hull
+1 mean speed: 10.00 laptime: 38.30 lambs_opt: [0. 0.] [0 0]
+average ss_violation: 0.00 max 0.00 average boundary_violation: 0.00 max 0.00
+2 mean speed: 10.00 laptime: 38.10 lambs_opt: [0. 0.] [0 0]
+average ss_violation: 0.00 max 0.00 average boundary_violation: 0.00 max 0.00
+3 mean speed: 10.01 laptime: 38.30 lambs_opt: [0. 0.] [0 0]
+average ss_violation: 0.00 max 0.00 average boundary_violation: 0.00 max 0.00
+losses -0.03261031
+4 mean speed: 10.01 laptime: 38.20 lambs_opt: [0. 0.] [0 0]
+average ss_violation: 0.00 max 0.00 average boundary_violation: 0.00 max 0.00
+losses -0.91908085
+5 mean speed: 10.00 laptime: 38.20 lambs_opt: [0. 0.] [0 0]
+average ss_violation: 0.00 max 0.00 average boundary_violation: 0.00 max 0.00
+losses -2.6886287
+init saved
+losses -3.3808
+6 mean speed: 9.61 laptime: 39.80 lambs_opt: [3.7972293 0.       ] [18.75  0.  ]
+average ss_violation: 0.00 max 0.16 average boundary_violation: 0.00 max 0.00
+exp_name f1_r0_dynamic_ST_map1_steps10
+random seed 278026
+Precompiling jit for ss hull
+1 mean speed: 10.00 laptime: 38.20 lambs_opt: [0. 0.] [0 0]
+average ss_violation: 0.00 max 0.00 average boundary_violation: 0.00 max 0.00
+2 mean speed: 10.01 laptime: 38.20 lambs_opt: [0. 0.] [0 0]
+average ss_violation: 0.00 max 0.00 average boundary_violation: 0.00 max 0.00
+losses -0.05608634
+3 mean speed: 10.00 laptime: 38.20 lambs_opt: [0. 0.] [0 0]
+average ss_violation: 0.00 max 0.00 average boundary_violation: 0.00 max 0.00
+losses -2.9433026
+4 mean speed: 9.99 laptime: 38.30 lambs_opt: [0. 0.] [0 0]
+average ss_violation: 0.00 max 0.00 average boundary_violation: 0.00 max 0.00
+5 mean speed: 10.00 laptime: 38.20 lambs_opt: [0. 0.] [0 0]
+average ss_violation: 0.00 max 0.00 average boundary_violation: 0.00 max 0.00
+losses -3.721702
+init saved
+losses -3.9476762
+6 mean speed: 9.69 laptime: 39.40 lambs_opt: [2.9580152 0.       ] [18.75  0.  ]
+average ss_violation: 0.00 max 0.17 average boundary_violation: 0.00 max 0.00
+losses -4.13459
+7 mean speed: 10.00 laptime: 38.10 lambs_opt: [2.6611843 0.       ] [18.75  0.  ]
+average ss_violation: 0.00 max 0.06 average boundary_violation: 0.00 max 0.00
+losses -3.8029187
+8 mean speed: 10.32 laptime: 37.00 lambs_opt: [2.151084 0.      ] [18.75  0.  ]
+average ss_violation: 0.00 max 0.04 average boundary_violation: 0.00 max 0.00

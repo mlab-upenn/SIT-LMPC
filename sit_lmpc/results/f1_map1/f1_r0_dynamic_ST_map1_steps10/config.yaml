@@ -1,0 +1,91 @@
+a_cov_shift: 0
+action_rate_penalty: 0.01
+adaptive_covariance: 0
+added_noise:
+- 0.001
+- 0.001
+- 0.001
+added_noise_limit_multiplier: 3.0
+cartesian_models:
+- dynamic_ST
+- kinematic_ST
+- nn_dynamic_ST
+control_dim: 2
+control_sample_std:
+- 0.25
+- 0.25
+costfunc_half_width: 3.97
+curr_dir: /home/lucerna/Documents/Research/SIT-LMPC/sit_lmpc
+damping: 0.001
+exp_name: f1_r0_dynamic_ST_map1_steps10
+freeze_render_when_stop: 0
+frenet_conversion_track_range: 400
+friction: 1.0
+gym_model: st
+half_width: 4.0
+half_width_buffer: 0.03
+half_width_costfunc_buffer: 0.03
+init_vel: 10
+insight_len: 40
+kmonitor_enable: 0
+lambs_sample_range:
+- 0
+- 20
+lambs_sample_std: 10
+lmppi_exact: 0
+load_dir: /home/lucerna/Documents/Research/SIT-LMPC/sit_lmpc/results/f1_map1/
+load_pretrained_dynamic_model: 1
+map_dir: /f1tenth_racetracks/
+map_ext: .png
+map_ind: 1
+map_inds:
+  0: /maps/Spielberg/Spielberg
+  1: /maps/custom1/custom1
+  2: /maps/custom2/custom2
+  3: /maps/tough/tough
+map_scale: 1
+max_lap: 150
+n_iterations: 1
+n_lambs: 16
+n_samples: 1024
+n_steps: 10
+noncovex: 0
+norm_params:
+- - 0.8
+  - 7.0
+- - -0.4
+  - -3.5
+plottings: 1
+print_line: 0
+quick_load: 0
+quick_load_init: 0
+r_sshull_limit: 1.0
+random_seed: 278026
+reduced_half_width: 3.97
+render: 1
+run: 0
+save_dir: /home/lucerna/Documents/Research/SIT-LMPC/sit_lmpc/results/f1_map1/f1_r0_dynamic_ST_map1_steps10/
+shifting_lambs: 0
+sim_time_step: 0.1
+ss_arr_max_len: 2000000
+ss_hull_num_reduction: 10
+ss_hull_precompile: 1
+ss_hull_precompile_len: 1000
+ss_loop_extend_sec: 2.0
+ss_ref_step_interval: 3.0
+ss_relaxation: 0.03
+ss_select_max_len: 1000
+ss_size: 4
+state_dim: 7
+state_predictor: dynamic_ST
+take_mean_of_values: 1
+temperature: 0.01
+train_model_w_SS: 1
+train_value_outside: 1
+train_value_with_all_ss: 0
+use_abc_lmpc: 0
+use_blank_map: 1
+use_zt_ss_inds: 0
+value_conf_penalty: 0.0
+value_conf_penalty_sig: 0.0
+value_dim: 5
