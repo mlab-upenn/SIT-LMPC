@@ -2,7 +2,9 @@
 
 SIT-LMPC: Safe Information-Theoretic Learning Model Predictive Control for Iterative Tasks
 
-[[website]](https://sites.google.com/view/sit-lmpc/)[[Paper]](https://ieeexplore.ieee.org/document/11260933)
+[[Website]](https://sites.google.com/view/sit-lmpc/)[[Paper]](https://ieeexplore.ieee.org/document/11260933)
+
+![SIT-LMPC Diagram](imgs/flow_diagram.png)
 
 ## Installation
 
